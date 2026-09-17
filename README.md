@@ -25,8 +25,6 @@ SILENT COMICS’s publishing site [(silent-comics.com)](https://silent-comics.co
 
 [![Mastodon](https://img.shields.io/badge/Mastodon-@Silent_Comics-blue.svg?style=flat)](https://mastodon.social/users/Silent_Comics)
 
-QR <p><a href="http://eepurl.com/go58Rb"><img src="http://eepurl.com/go58Rb.qr.2"/></a></p>
-
 ## Support the project:
 Theme review aside, there are a few ways you can [support this project ♥](https://silentcomics.com/lynchpin/). *Thank you!*
 
