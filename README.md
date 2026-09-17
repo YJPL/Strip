@@ -30,8 +30,6 @@ QR <p><a href="http://eepurl.com/go58Rb"><img src="http://eepurl.com/go58Rb.qr.2
 ## Support the project:
 Theme review aside, there are a few ways you can [support this project ♥](https://silentcomics.com/lynchpin/). *Thank you!*
 
-[![Flattr Silent Comics](http://silentcomics.com/images/flattr-badge-large.png)](https://flattr.com/@SILENT-COMICS)
-
 <noscript><a href="https://liberapay.com/silentcomics/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 [![Support development][img-donate]][url-donate]
