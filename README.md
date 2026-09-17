@@ -1,4 +1,3 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e448b4df0cde4232a320d6f5580e76fa)](https://www.codacy.com/app/SilentComics/Strip?utm_source=github.com&utm_medium=referral&utm_content=SilentComics/Strip&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/SilentComics/Strip.svg?branch=master)](https://travis-ci.org/SilentComics/Strip)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/SilentComics/Strip/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/SilentComics/Strip/?branch=master)
 [![Code Climate](https://codeclimate.com/github/SilentComics/Strip/badges/gpa.svg)](https://codeclimate.com/github/SilentComics/Strip)
@@ -12,7 +11,7 @@ Strip: A WordPress Theme for Silent Comics
 <a href="https://github.com/SilentComics/Strip"><img src="https://silentcomics.com/images/index_silent-comics.png"/></a>
 </figure>
 
-This theme is not 100% ready for production, although you are welcome to test it. Right now two of the theme's functions, *custom post type* and *custom taxonomy*, should go in a plugin. WordPress.org advocates for the separation of presentation and content<sup>[1](#myfootnote1)</sup>. While this is important for portability of content, custom functions within the theme suit this particular project at this point<sup>[2](#myfootnote2)</sup>. **Warning** :loudspeaker: But that means you would lose access to your (comics) data if you used this theme and then switched to another. That is not something you want to happen. So until a simple webcomic plugin can solve this issue, it is best to avoid using this theme on your live site unless you really know what you are doing :v:.
+This theme is deprecated and was never 100% ready for production, although people were welcome to test it. Right now two of the theme's functions, *custom post type* and *custom taxonomy*, should go in a plugin. WordPress.org advocates for the separation of presentation and content<sup>[1](#myfootnote1)</sup>. While this is important for portability of content, custom functions within the theme suit this particular project at this point<sup>[2](#myfootnote2)</sup>. **Warning** :loudspeaker: But that means you would lose access to your (comics) data if you used this theme and then switched to another. That is not something you want to happen. So until a simple webcomic plugin can solve this issue, it is best to avoid using this theme on your live site unless you really know what you are doing :v:.
 
 # Theme Wiki
 See the [Theme wiki](https://github.com/SilentComics/Strip/wiki/Theme-set-up) for documentation.
