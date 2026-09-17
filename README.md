@@ -16,10 +16,6 @@ This theme is deprecated and was never 100% ready for production, although peopl
 # Theme Wiki
 See the [Theme wiki](https://github.com/SilentComics/Strip/wiki/Theme-set-up) for documentation.
 
-## Contributing
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-**I’m not a developer** and there is room for improvements. Do you know how to make this theme better? I would love to get contributions for this project! Please send your findings and suggestions over to hoa // @ // silent-comics.com or [open a pull request here](https://github.com/SilentComics/Strip/pulls).
-
 ### More about the project:
 SILENT COMICS’s publishing site [(silent-comics.com)](https://silent-comics.com) is coming soon. Please visit [Strip WP theme repo](https://github.com/SilentComics/Strip) here on GitHub to contribute.
 
@@ -31,7 +27,7 @@ SILENT COMICS’s publishing site [(silent-comics.com)](https://silent-comics.co
 
 QR <p><a href="http://eepurl.com/go58Rb"><img src="http://eepurl.com/go58Rb.qr.2"/></a></p>
 
-## Other ways you can help:
+## Support the project:
 Theme review aside, there are a few ways you can [support this project ♥](https://silentcomics.com/lynchpin/). *Thank you!*
 
 [![Flattr Silent Comics](http://silentcomics.com/images/flattr-badge-large.png)](https://flattr.com/@SILENT-COMICS)
